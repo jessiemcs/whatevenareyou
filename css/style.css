@@ -9,3 +9,8 @@ body {
 .Minor-Luigi-parent {
     display: flex;
 }
+@media only screen and (max-width: 600px) {
+    .Minor-Luigi-sections {
+    height: 25%;
+    }
+}
