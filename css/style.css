@@ -4,6 +4,7 @@ body {
 .Minor-Luigi-sections {
     width: 100%;
     background-color: rgb(9,65,155);
+    color: rgb(192, 209, 204);
 }
 .Minor-Luigi-parent {
     display: flex;
