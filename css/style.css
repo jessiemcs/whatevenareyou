@@ -3,14 +3,19 @@ body {
 }
 .Minor-Luigi-sections {
     width: 100%;
-    height: 25%;
     background-color: rgb(9,65,155);
 }
 .Minor-Luigi-parent {
     display: flex;
 }
+.siema-button {
+   background: #ece711;
+   width: 70px;
+   height: 70px;
+   font-size: 21px;
+}
 @media only screen and (max-width: 600px) {
-    .Minor-Luigi-sections {
-    height: 25%;
+    .Minor-Luigi-parent {
+        display: block;
     }
 }
